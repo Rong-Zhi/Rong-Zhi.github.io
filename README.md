@@ -1,1 +1,1 @@
-It is based on **[Moon](https://taylantatli.github.io/Moon)**, a minimal, one column jekyll theme.
+It is based on **[Moon](https://github.com/TaylanTatli/Moon/)**, a minimal, one column jekyll theme, learn more about it [here](https://taylantatli.github.io/Moon).
