@@ -38,4 +38,3 @@ To learn how to install and use this theme check out the [Setup Guide](http://ta
  -->
 
  Hello there, this is Rong Zhi. Welcome to my page! \\
- I'm a master student at TU Darmstadt majoring in Information and Communication Engineering.
